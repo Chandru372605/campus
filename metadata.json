@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CampusConnect",
+  "description": "A centralized digital ecosystem for college students featuring notes sharing, anonymous confessions, lost \u0026 found, student marketplace, placement hub, live chats, and smart AI summarizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
